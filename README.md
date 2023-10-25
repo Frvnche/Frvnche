@@ -5,7 +5,7 @@
 <h3 align="left"> 🔽 hello to you hold your ticket! ( visitor number ) 🔽</h3>
 
 
-![:name](https://count.getloli.com/get/@:Frvnche?theme=asoul)
+![:name](https://count.getloli.com/get/@:frvnche?theme=asoul)
 
 
 
