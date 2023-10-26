@@ -52,4 +52,10 @@ for any help! I invite you to contact me directly by one of the direct messaging
 
 </p>
 <hr>
-<h1 align="center">End for the moment</h1>
+<h1 align="center">are you here for the robot templates?</h1>
+
+<p>
+
+here is the link of my first bot [Highrise Bot 1.0 in Python](https://github.com/Frvnche/Firstbottemplate)
+</p>
+
